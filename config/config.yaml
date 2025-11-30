@@ -119,3 +119,7 @@ platforms:
     name: "抖音"
   - id: "zhihu"
     name: "知乎"
+  - id: "ithome"
+    name: "IT之家"
+  - id: "pcbeta"
+    name: "远景论坛"
